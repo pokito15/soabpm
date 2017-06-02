@@ -1,5 +1,3 @@
 Nombre 	
 Apellido
 dni
-
-temalogreelcodigowexd
